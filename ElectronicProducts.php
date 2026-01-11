@@ -3,7 +3,7 @@
  * Plugin Name: Электронные товары
  * Description: Плагин дает возможность размещать электронные товары для продажи. Создавался для продаж тем, плагинов, шаблонов, модулей и т.д.
  *
- * Plugin URI:  https://learn-top.ru/products
+ * Plugin URI:  https://github.com/YakushinIlya/ElectronicProducts
  * Author URI:  https://learn-top.ru
  * Author:      IT Шаман
  *
