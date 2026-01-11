@@ -46,7 +46,7 @@ $args = [
 $query = new WP_Query($args);
 ```
 Далее, нужно вывести привычным вам способом, с элементами вашей верстки сам список товаров:
-```xpath
+```php
 <div class="col-12 mb-5">
         <h1 class="h3"><?php echo esc_html($page->post_title??the_title()); ?></h1>
         <?php echo $page->post_content??the_content(); ?>
